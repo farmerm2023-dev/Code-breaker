@@ -20,4 +20,26 @@ rad.json
 *.bclicense
 *.flf
 #Test results file
-TestResults.xmlanahbw5xjn9hu39dvtahkptutqn8nk86dmvauaak5mejdrpannxhgumgqreftajha992f3b44a2dcdcc128a39a625dc5d270f096333f56e8fe8a20b4a5f71a4360ee73c0fbbe4aae81cTestResults.xml.output/
+/### AL ###
+#Template for AL projects for Dynamics 365 Business Central
+#launch.json folder
+.vscode/
+#Cache folder
+.alcache/
+#Symbols folder
+.alpackages/
+#Snapshots folder
+.snapshots/
+#Testing Output folder
+.output/
+#Extension App-file
+*.app
+#Rapid Application Development File
+rad.json
+#Translation Base-file
+*.g.xlf
+#License-files
+*.bclicense
+*.flf
+#Test results file
+/.output/TestResults.xmlhttps://github.com/
